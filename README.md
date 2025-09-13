@@ -1,4 +1,4 @@
-# Qlik Sense - Ocorrencias SAMU
+# Qlik Sense - Ocorrências SAMU
 
 #### 📊 Análise de Ocorrências SAMU 2021 a 2024
 
