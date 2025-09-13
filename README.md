@@ -8,13 +8,13 @@ Este projeto tem como objetivo analisar os dados de ocorrências do **SAMU (Serv
 O dataset contém informações detalhadas sobre os chamados, incluindo **localização, perfil dos pacientes, tipo de ocorrência e desfecho do atendimento**.
 
 ## 🚀 Tecnologias Utilizadas
-- Qlik Sense
+  - Qlik Sense
 
 ## 📂 Estrutura do Projeto
-- ocorrenciassamu2021.csv
-- ocorrenciassamu2022.csv
-- ocorrenciassamu2023.csv
-- ocorrenciassamu2024.csv
+  - ocorrenciassamu2021.csv
+  - ocorrenciassamu2022.csv
+  - ocorrenciassamu2023.csv
+  - ocorrenciassamu2024.csv
 
 ## 🔎 Indicadores Analisados
 
