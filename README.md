@@ -2,6 +2,8 @@
 
 # 📊 Análise de Ocorrências SAMU 2021 a 2024
 
+<img width='950' height='500' src="https://github.com/eduardolima17/Qlik-Sense-Ocorrencias-SAMU/blob/main/Imagem-Painel.png"/>
+
 Este projeto tem como objetivo analisar os dados de ocorrências do **SAMU (Serviço de Atendimento Móvel de Urgência)** durante o ano de 2021 a 2024.  
 O dataset contém informações detalhadas sobre os chamados, incluindo **localização, perfil dos pacientes, tipo de ocorrência e desfecho do atendimento**.
 
